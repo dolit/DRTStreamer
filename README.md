@@ -1,3 +1,3 @@
 ## dolit cloudapp streamer
   
-[https://dolit.cloud/](https://dolit.cloud/) Please visit this link
+[Please visit this link](https://dolit.cloud/)
