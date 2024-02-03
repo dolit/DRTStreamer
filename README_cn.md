@@ -44,7 +44,7 @@
 
 ## 系统结构
 
-
+![scenario](https://raw.githubusercontent.com/dolit/DRTStreamer/master/www/scenario_cn.jpg)
 
 ## 联系方式
 
