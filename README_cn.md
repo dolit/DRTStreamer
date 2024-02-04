@@ -4,7 +4,9 @@
 
 ## 点量云流
 
-点量云流可以将任意软件流化成网页，在轻量化设备上即点即用。
+点量云流可以将任意软件/桌面流化成网页，在各种轻量化设备上即点即用，通过网页或轻客户端，低延迟远程操作应用/桌面。
+
+![scenario](https://raw.githubusercontent.com/dolit/DRTStreamer/master/www/scenario_cn.jpg)
 
 ## 适用场景
 
@@ -16,7 +18,7 @@
 
 - 实时流化整个电脑桌面/任一程序到网页，网页端无需安装任何插件，即点即用
 - 自研超低延迟传输，客户端模式在局域网中完整链路延迟最低可以5ms（指令发生->画面抓屏->实时视频流编码->网络传输->解码显示)
-- 单服务器支持多进程容器化隔离流化，多路并发：多个进程多路输出，互不干扰
+- 自研Cell隔离技术：单服务器支持多进程容器化隔离流化，多路并发：多个进程多路输出，互不干扰
 - 对Unreal、Unity、WebGL等引擎的3D应用，支持离屏渲染，服务器不出现内容画面，减少服务器负载
 - 支持任意软件程序，如UG、AutoCAD、画图板等各种应用
 - 支持对整个电脑桌面进行流化（远程控制/远程桌面）
@@ -44,12 +46,12 @@
 
 ## 系统结构
 
-![scenario](https://raw.githubusercontent.com/dolit/DRTStreamer/master/www/scenario_cn.jpg)
+![architecture](https://raw.githubusercontent.com/dolit/DRTStreamer/master/www/architecture_cn.png)
 
 ## 联系方式
 
 邮箱：market@dolit.cn 
 
-官网：https://www.dolit.cloud （有在线试用和体验）
+官网：http://www.dolit.cloud （可在线试用和体验）
 
-[请点击此处了解更多...](https://www.dolit.cloud/)
+[请点击此处了解更多...](http://www.dolit.cloud/)
